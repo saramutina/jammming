@@ -1,6 +1,8 @@
-For privacy reasons you would need to use your own Spotify Client Id. 
+For privacy reasons you would need to use your own Spotify Client Id.
+
 You can get it at:
-https://developer.spotify.com/dashboard/login. 
+  https://developer.spotify.com/dashboard/login. 
+  
 Note that you’ll have to log in (or create an account if you don’t already have one). In src/util/Spotify.js please insert your Spotify Client Id.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
